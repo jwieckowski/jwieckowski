@@ -21,6 +21,10 @@ I like to work with these technologies :arrow_down:
 * In meantime learning Spanish :es:
 
 ### Feel free to ask questions :question:
+[LinkedIn](https://www.linkedin.com/in/jakubwieckowski/)
+[Email](kubaw1@onet.eu)
+
+
 <!--
 **jwieckowski/jwieckowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
