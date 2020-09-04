@@ -21,8 +21,8 @@ I like to work with these technologies :arrow_down:
 * In meantime learning Spanish :es:
 
 ### Feel free to ask questions :question:
-*[LinkedIn](https://www.linkedin.com/in/jakubwieckowski/)
-*[Email](mailto:kubaw1@onet.eu)
+* [LinkedIn](https://www.linkedin.com/in/jakubwieckowski/)
+* [Email](mailto:kubaw1@onet.eu)
 
 
 <!--
