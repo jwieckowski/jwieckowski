@@ -1,7 +1,8 @@
 # Hi :smiley:
 
 ## Something about me 
-* I'm an IT student at West Pomeranian University in Szczecin, Poland :computer:
+* I'm an IT student studying for a Master's degree at West Pomeranian University in Szczecin, Poland :computer:
+* Computer Science Engineer 
 * I'm writing scientific papers about MCDA methods :page_with_curl:
 * I was a professional swimmer for 13 years :swimmer:
 * Now I'm gym freak :muscle:
@@ -16,7 +17,6 @@ I like to work with these technologies :arrow_down:
 * GIT
 
 ## What I'm currently doing
-* Working on my BEng Thesis :book:
 * Making some small projects to improve skills :arrow_upper_right:
 * In meantime learning Spanish :es:
 
