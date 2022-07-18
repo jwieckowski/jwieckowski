@@ -5,7 +5,7 @@
 - I've finished Master Degree of Computer Science at West Pomeranian University in Szczecin, Poland :computer:
 - Intrested in Machine Learning in Sports
 - I'm writing scientific papers about MCDA methods :page_with_curl:
-- Google Scholar account [GoogleScholar](https://scholar.google.com/citations?hl=pl&user=jeIr65oAAAAJ)
+- [GoogleScholar](https://scholar.google.com/citations?hl=pl&user=jeIr65oAAAAJ) account
 - I was a professional swimmer for 13 years :swimmer:
 - I like writing web application for self development in this field
 - Now I'm trying to get PhD in Computer Science
