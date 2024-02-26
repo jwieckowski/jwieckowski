@@ -1,4 +1,6 @@
-# Welcome :smiley:
+# Welcome to my profile :smiley:
+
+Below I want to introduce myself from different perspectives shortly 
 
 ## Education
 
